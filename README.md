@@ -6,4 +6,7 @@ The code can be found in the Jupyter notebook in this repo. This was my first Ka
 
 I'm proud to say that I finished 153rd out of 2943 in the competition, landing in the Top 6% and earning a bronze medal.
 
+![Ranking](https://github.com/DannyMac180/APTOS-Blindness-2019/blob/master/aptos-2019-ranking.png)
+
+
 
