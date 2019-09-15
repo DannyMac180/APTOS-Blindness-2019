@@ -8,5 +8,9 @@ I'm proud to say that I finished 153rd out of 2943 in the competition, landing i
 
 ![Ranking](https://github.com/DannyMac180/APTOS-Blindness-2019/blob/master/aptos-2019-ranking.png)
 
+# Model
 
+I initially started with a simple Resnet34/50 model but it performed poorly. Than I came upon this relatively new model that was developed by Google in June 2019 called EfficientNet. EfficentNet has outperformed all other Deep Neural Networks on the ImageNet image classification tasks while having a much smaller number of parameters.
+
+![EfficientNet Graph](https://raw.githubusercontent.com/tensorflow/tpu/master/models/official/efficientnet/g3doc/params.png)
 
