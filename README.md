@@ -1,5 +1,5 @@
 # APTOS-Blindness-2019
-Kaggle APTOS Blindness 2019 Competition
+## Kaggle APTOS Blindness 2019 Competition
 
 This is a submission for the Kaggle data science competition: [APTOS Blindness 2019](https://www.kaggle.com/c/aptos2019-blindness-detection)
 
