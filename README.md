@@ -26,10 +26,9 @@ One more trick I used was data resizing. I used a few different image sizes in o
 
 The scoring statistic for this competition was Quadratic Weighted Kappa - defined by this equation:
 
-Cohen's kappa measures the agreement between two raters who each classify N items into C mutually exclusive categories. The definition of {\textstyle \kappa }{\textstyle \kappa } is:
+Cohen's kappa measures the agreement between two raters who each classify N items into C mutually exclusive categories. The definition of k is:
 
-{\displaystyle \kappa \equiv {\frac {p_{o}-p_{e}}{1-p_{e}}}=1-{\frac {1-p_{o}}{1-p_{e}}},\!}{\displaystyle \kappa \equiv {\frac {p_{o}-p_{e}}{1-p_{e}}}=1-{\frac {1-p_{o}}{1-p_{e}}},\!}
-where po is the relative observed agreement among raters (identical to accuracy), and pe is the hypothetical probability of chance agreement, using the observed data to calculate the probabilities of each observer randomly seeing each category. If the raters are in complete agreement then {\textstyle \kappa =1}{\textstyle \kappa =1}. If there is no agreement among the raters other than what would be expected by chance (as given by pe), {\textstyle \kappa =0}{\textstyle \kappa =0}. It is possible for the statistic to be negative,[6] which implies that there is no effective agreement between the two raters or the agreement is worse than random.
+![QWK](https://wikimedia.org/api/rest_v1/media/math/render/svg/d45fc75d4d1a8d672083492fd147f75e8ba374bd)
 
-My final submission achieved a QWK score of 
+My final submission achieved a QWK score of .919. The competition winner finished with a score of .936
 
